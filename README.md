@@ -57,7 +57,7 @@ Business Problem-Solving: Write and execute complex SQL queries to answer critic
 
 ## Power BI Dashboard
 
-
+![E-comm Marketing dashboard image](E-Commerce-Marketing-Conversion-Analytics-Project/blob/main/E-comm%20%20Marketing%20%26%20Conversion%20Dashboard.png)
 
 👉 [E-comm Power BI Dashboard](E-Commerce-Marketing-Conversion-Analytics-Project/blob/main/Ecommerce%20marketing%20dashboard.pdf)
 
