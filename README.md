@@ -22,7 +22,6 @@ The project includes six main tables:
 - SQL for data analysis
 - Power BI for dashboard visualization
 
-- 
 ## Explore the Data
 
 **Goal:** Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
