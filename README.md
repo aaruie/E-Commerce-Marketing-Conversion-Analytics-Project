@@ -1,1 +1,1 @@
-# E-Commerce-Marketing-Conversion-Analytics-Project
+# E-Commerce Marketing Conversion Analytics Project using SQL, Python and Power BI
