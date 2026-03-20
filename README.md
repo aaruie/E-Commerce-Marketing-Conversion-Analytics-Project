@@ -1,5 +1,7 @@
 # E-Commerce Marketing Conversion Analytics Project using SQL, Python and Power BI
 
+![project logo]
+
 ## Overview
 
 This project analyzes a multi-table toy store e-commerce dataset using SQL, Python, and Power BI to uncover insights on marketing performance, customer behavior, and sales trends. It focuses on conversion rates, traffic sources, product performance, and refund patterns. The project demonstrates strong skills in data cleaning, joins, aggregations, and business-focused analysis to improve revenue and marketing ROI.
