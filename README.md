@@ -16,6 +16,13 @@ The project includes six main tables:
 - products: Product information (product name, category, price, launch date).
 - order_item_refunds: Refund data (refunded items, refund amount, refund date).
 
+## Tools Used
+
+- Python for EDA and data cleaning
+- SQL for data analysis
+- Power BI for dashboard visualization
+
+- 
 ## Explore the Data
 
 **Goal:** Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
@@ -35,6 +42,7 @@ Set Up Connection: Connect to PostgreSQL using sqlalchemy and load the cleaned d
 Table Creation: Set up tables in PostgreSQL using Python SQLAlchemy to automate table creation and data insertion.
 Verification: Run initial SQL queries to confirm that the data has been loaded accurately.
 
+
 ## SQL Analysis: Complex Queries and Business Problem Solving
 
 Business Problem-Solving: Write and execute complex SQL queries to answer critical business questions, such as:
@@ -50,6 +58,13 @@ Business Problem-Solving: Write and execute complex SQL queries to answer critic
 
 ## Power BI Dashboard
 
+👉 (Add Tableau Public link here)
+
+Key visuals include:
+
+1. Executive Overview
+2. Marketing Performance
+3. Customer Behaviour & Product Insights
 
 
 ## Results and Insights
