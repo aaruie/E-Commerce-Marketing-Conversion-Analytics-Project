@@ -48,3 +48,14 @@ Business Problem-Solving: Write and execute complex SQL queries to answer critic
 - Detecting high refund rate products and potential quality issues.
 - Performing end-to-end funnel analysis from traffic acquisition to final purchase and refunds.
 
+## Power BI Dashboard
+
+
+
+## Results and Insights
+
+- The website recorded 390K sessions and 40K orders, with an overall conversion rate of 10.27%.
+- Total revenue generated was approximately 1.9M, driven primarily by high-traffic marketing channels.
+- Google Search (gsearch) contributed the most with 316K sessions, 1,154 orders, and 57K revenue.
+- The top product, “The Original Mr. Fuzzy,” generated 1.2M revenue, significantly higher than other products.
+
