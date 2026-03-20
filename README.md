@@ -1,6 +1,6 @@
 # E-Commerce Marketing Conversion Analytics Project using SQL, Python and Power BI
 
-![project logo]
+![project logo](E-Commerce-Marketing-Conversion-Analytics-Project/blob/main/ecommerce%20marketing%20and%20conversion%20logo.png)
 
 ## Overview
 
