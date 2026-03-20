@@ -57,7 +57,9 @@ Business Problem-Solving: Write and execute complex SQL queries to answer critic
 
 ## Power BI Dashboard
 
-👉 (Add Tableau Public link here)
+
+
+👉 [E-comm Power BI Dashboard](E-Commerce-Marketing-Conversion-Analytics-Project/blob/main/Ecommerce%20marketing%20dashboard.pdf)
 
 Key visuals include:
 
